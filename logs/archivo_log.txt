@@ -1,0 +1,45 @@
+INFO:root:
+Resultados del individuo 1
+INFO:root:
+Resultados del individuo 1
+INFO:root:
+Resultados del individuo 1
+INFO:root:
+Resultados del individuo 1
+INFO:root:NMI Score: 0.21988089668751382
+INFO:root:
+Resultados del individuo 2
+INFO:root:NMI Score: 0.21434560350768334
+INFO:root:
+Resultados del individuo 3
+INFO:root:NMI Score: 0.2106846297348106
+INFO:root:
+Resultados del individuo 1
+INFO:root:Número de comunidades: 195
+INFO:root:Internal Density: 0.08908732377058169
+INFO:root:Community Score: 59.13356379882291
+INFO:root:Modularidad: 0.37929930035609927
+INFO:root:NMI Score: 0.21988089668751382
+INFO:root:
+Resultados del individuo 2
+INFO:root:Número de comunidades: 164
+INFO:root:Internal Density: 0.12027570638387186
+INFO:root:Community Score: 74.84843157128603
+INFO:root:Modularidad: 0.4227217346146825
+INFO:root:NMI Score: 0.21434560350768334
+INFO:root:
+Resultados del individuo 3
+INFO:root:Número de comunidades: 155
+INFO:root:Internal Density: 0.14425069554101808
+INFO:root:Community Score: 85.8185020668042
+INFO:root:Modularidad: 0.3963545471146821
+INFO:root:NMI Score: 0.2106846297348106
+INFO:root:
+Resultados del individuo 1
+INFO:root:NMI Score: 0.21988089668751382
+INFO:root:
+Resultados del individuo 2
+INFO:root:NMI Score: 0.21434560350768334
+INFO:root:
+Resultados del individuo 3
+INFO:root:NMI Score: 0.2106846297348106
