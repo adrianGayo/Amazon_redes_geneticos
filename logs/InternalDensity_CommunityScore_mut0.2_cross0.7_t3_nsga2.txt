@@ -1,0 +1,27 @@
+INFO:root:
+Resultados del individuo 1
+INFO:root:Número de comunidades: 190
+INFO:root:Internal Density: 0.08118016068325667
+INFO:root:Community Score: 46.39377233859071
+INFO:root:Modularidad: 0.3974120737079984
+INFO:root:NMI Score: 0.22241486906042712
+INFO:root:
+Resultados del individuo 2
+INFO:root:Número de comunidades: 175
+INFO:root:Internal Density: 0.10494100922014696
+INFO:root:Community Score: 76.40265311025811
+INFO:root:Modularidad: 0.36743788235025604
+INFO:root:NMI Score: 0.21703758244352558
+INFO:root:
+Resultados del individuo 3
+INFO:root:Número de comunidades: 145
+INFO:root:Internal Density: 0.1718799332288176
+INFO:root:Community Score: 91.17323777456303
+INFO:root:Modularidad: 0.4259257013559169
+INFO:root:NMI Score: 0.20815026478106086
+INFO:root:
+Resultados del Ground truth
+INFO:root:Número de comunidades: 8
+INFO:root:Internal Density: 0.7127731359811349
+INFO:root:Community Score: 157.59658752712346
+INFO:root:Modularidad: 0.5748290123949963
