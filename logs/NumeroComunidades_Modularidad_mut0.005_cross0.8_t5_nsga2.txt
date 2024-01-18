@@ -52,30 +52,4 @@ INFO:root:Número de comunidades: 8
 INFO:root:Internal Density: 0.7127731359811349
 INFO:root:Community Score: 157.59658752712346
 INFO:root:Modularidad: 0.5748290123949963
-INFO:root:
-Resultados del individuo 1
-INFO:root:Número de comunidades: 172
-INFO:root:Internal Density: 0.03575859032187274
-INFO:root:Community Score: 28.51993376249404
-INFO:root:Modularidad: 0.60004130238769
-INFO:root:NMI Score: 0.21074034760166874
-INFO:root:
-Resultados del individuo 2
-INFO:root:Número de comunidades: 108
-INFO:root:Internal Density: 0.06646233573085512
-INFO:root:Community Score: 29.47583299882183
-INFO:root:Modularidad: 0.7742029138513498
-INFO:root:NMI Score: 0.1774993473056243
-INFO:root:
-Resultados del individuo 3
-INFO:root:Número de comunidades: 78
-INFO:root:Internal Density: 0.13027090286413115
-INFO:root:Community Score: 34.89557324622536
-INFO:root:Modularidad: 0.817232297753834
-INFO:root:NMI Score: 0.1435366757068963
-INFO:root:
-Resultados del Ground truth
-INFO:root:Número de comunidades: 8
-INFO:root:Internal Density: 0.7127731359811349
-INFO:root:Community Score: 157.59658752712346
-INFO:root:Modularidad: 0.5748290123949963
+
